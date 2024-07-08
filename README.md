@@ -2,6 +2,8 @@
 *Ubuntu Desktop on NoMachine*
 
 
+xalidix873@atebin.com
+
 https://0uui8.mjt.lu/lnk/BAAABcGTXuEAAAAAAAAAAdS14BQAAAAAzBIAAAAAAB5DXwBmjHawvsCulsrFS3CAS_Ixs0eCaAActpg/2/B4Yd5XaDpiLlRqra817q3w/aHR0cDovL2xpZ2h0bmluZy5haQ
 
 
