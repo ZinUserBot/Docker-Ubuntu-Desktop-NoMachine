@@ -9,6 +9,9 @@ xalidix873@atebin.com
 https://0uui8.mjt.lu/lnk/BAAABcGTXuEAAAAAAAAAAdS14BQAAAAAzBIAAAAAAB5DXwBmjHawvsCulsrFS3CAS_Ixs0eCaAActpg/2/B4Yd5XaDpiLlRqra817q3w/aHR0cDovL2xpZ2h0bmluZy5haQ
 
 
+https://lightning.ai/v1/auth/magic-link-complete?token=TaqfMnLF4bEG271vmjFsunkGXMnuVSMj3Xufa7uzfVQJ-KwddGlR3mpZU_abneMFcj5KjbtLzfb0hoJlDJbHJw==
+
+
 
 - Base on Ubuntu 18.04 / Ubuntu 20.04
 
